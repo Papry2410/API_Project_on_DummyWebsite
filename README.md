@@ -68,3 +68,8 @@ newman run collectionname.json -e environmentname.json -n 10 -r cli,htmlextra
   * Remember to replace `collectionname.json` and `environmentname.json` with your actual file names.
 
 -----
+### *** Newman Report Summary: ***
+<img width="1824" height="874" alt="Screenshot 2025-07-22 021144" src="https://github.com/user-attachments/assets/7e31f80c-5b88-49ba-bf19-5859fe72943b" />
+<img width="1783" height="873" alt="Screenshot 2025-07-22 021223" src="https://github.com/user-attachments/assets/ace5981a-bd89-4125-a612-fe0c78b67811" />
+
+
